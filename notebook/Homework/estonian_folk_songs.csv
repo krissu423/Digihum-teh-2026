@@ -1,0 +1,31 @@
+﻿Record ID,Title,Region,Year collected,Collector,Category,Number of verses,Performer age,Language variety
+F001,Kiigelaul jaaniõhtul,Harjumaa,1884,Mari Kask,Seasonal song,18,46,North Estonian
+F002,Merele mineku laul,Saaremaa,1886,Juhan Saar,Work song,24,68,Island dialect
+F003,Pika tee ballaad,Võrumaa,1887,Liisa Tamm,Ballad,16,53,Võro
+F004,Pruudi saatmise laul,Setomaa,1888,Peeter Lepp,Wedding song,20,61,Seto
+F005,Hällilaul väikesele õele,Tartumaa,1889,Anna Oja,Lullaby,22,35,Tartu dialect
+F006,Lõikuslaul põllul,Pärnumaa,1891,Karl Vaher,Work song,14,57,Western Estonian
+F007,Tantsulaul külapeol,Virumaa,1892,Helmi Põld,Dance song,10,29,Northeastern Estonian
+F008,Pulmalaul saarelt,Saaremaa,1894,Mari Kask,Wedding song,28,74,Island dialect
+F009,Kevade tervitus,Võrumaa,1895,Juhan Saar,Seasonal song,12,42,Võro
+F010,Sõduri tagasituleku ballaad,Harjumaa,1896,Liisa Tamm,Ballad,26,63,North Estonian
+F011,Peigmehe vastuvõtu laul,Setomaa,1898,Peeter Lepp,Wedding song,18,49,Seto
+F012,Ketruslaul talveõhtul,Tartumaa,1901,Anna Oja,Work song,16,38,Tartu dialect
+F013,"Uni tule, silma peale",Pärnumaa,1903,Karl Vaher,Lullaby,20,71,Western Estonian
+F014,Labajala tantsuviis,Virumaa,1905,Helmi Põld,Dance song,9,25,Northeastern Estonian
+F015,Kadunud meremehe ballaad,Saaremaa,1906,Mari Kask,Ballad,24,58,Island dialect
+F016,Mõrsja itk,Võrumaa,1907,Juhan Saar,Wedding song,15,47,Võro
+F017,Mardiõhtu laul,Harjumaa,1909,Liisa Tamm,Seasonal song,18,32,North Estonian
+F018,Heinategemise laul,Setomaa,1911,Peeter Lepp,Work song,13,55,Seto
+F019,Pulmalaul kaasitajatele,Tartumaa,1913,Anna Oja,Wedding song,17,44,Tartu dialect
+F020,Metsavenna ballaad,Pärnumaa,1915,Karl Vaher,Ballad,11,36,Western Estonian
+F021,Hällilaul tuulisele ööle,Virumaa,1917,Helmi Põld,Lullaby,19,66,Northeastern Estonian
+F022,Külaväljaku tantsulaul,Saaremaa,1919,Mari Kask,Dance song,14,40,Island dialect
+F023,Pruudi lahkumise laul,Võrumaa,1921,Juhan Saar,Wedding song,12,28,Võro
+F024,Kalurite töölaul,Harjumaa,1923,Liisa Tamm,Work song,15,59,North Estonian
+F025,Vastlalaul mäel,Setomaa,1925,Peeter Lepp,Seasonal song,10,52,Seto
+F026,Kurb armastusballaad,Tartumaa,1927,Anna Oja,Ballad,16,34,Tartu dialect
+F027,Pulmalaul värava ees,Pärnumaa,1929,Karl Vaher,Wedding song,13,62,Western Estonian
+F028,Ringmängulaul,Virumaa,1931,Helmi Põld,Dance song,9,31,Northeastern Estonian
+F029,Hällilaul mere ääres,Saaremaa,1934,Mari Kask,Lullaby,11,45,Island dialect
+F030,Noorpaari õnnistuslaul,Võrumaa,1938,Juhan Saar,Wedding song,8,23,Võro
